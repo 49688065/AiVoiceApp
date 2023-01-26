@@ -1,0 +1,38 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+
+buildscript {
+
+    repositories {
+        google()
+        mavenCentral()
+//        maven { url 'https://maven.google.com' }
+    }
+
+    dependencies {
+        classpath("com.android.tools.build:gradle:$KotlinConstants.gradle_version")
+        classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:$KotlinConstants.kotlin_version")
+
+    }
+
+    //动态替换资源
+    sourceSets{
+        getByName("main"){
+            if(ModuleConfig.isApp){
+                manifest.srcFile("src/main/manifest/AndroidManifest.xml")
+            }else{
+                manifest.srcFile("src/main/AndroidManifest.xml")
+            }
+        }
+    }
+}
+
+task {
+    val clean by registering(Delete::class) {
+        delete(buildDir)
+    }
+}
+
+
+//dependencies {
+//    classpath ("org.jetbrains.kotlin:kotlin-android-extensions:$KotlinConstants.kotlin_version")
+//}

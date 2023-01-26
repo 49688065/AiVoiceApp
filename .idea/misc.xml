@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TestDemo/AiVoiceApp/app/src/main/res/drawable/shape_coner.xml" value="0.1575" />
+        <entry key="..\:/TestDemo/AiVoiceApp/app/src/main/res/layout/activity_main.xml" value="0.12742432481421062" />
+        <entry key="..\:/TestDemo/AiVoiceApp/app/src/main/res/layout/add_dialog.xml" value="0.22096994535519127" />
+        <entry key="..\:/TestDemo/AiVoiceApp/app/src/main/res/layout/i_will_activity.xml" value="0.2171875" />
+        <entry key="..\:/TestDemo/AiVoiceApp/app/src/main/res/layout/layout_ai_text.xml" value="0.1342769701606733" />
+        <entry key="..\:/TestDemo/AiVoiceApp/app/src/main/res/layout/layout_mine_text.xml" value="0.1342769701606733" />
+        <entry key="..\:/TestDemo/AiVoiceApp/app/src/main/res/layout/layout_weather_text.xml" value="0.1342769701606733" />
+        <entry key="..\:/TestDemo/AiVoiceApp/app/src/main/res/layout/layout_window_item.xml" value="0.1" />
+        <entry key="..\:/TestDemo/AiVoiceApp/app/src/main/res/layout/my_activity.xml" value="0.140625" />
+        <entry key="..\:/TestDemo/AiVoiceApp/app/src/main/res/layout/test_item.xml" value="0.274609375" />
+        <entry key="..\:/TestDemo/AiVoiceApp/app/src/main/res/layout/view_page_item.xml" value="0.1" />
+        <entry key="..\:/TestDemo/AiVoiceApp/module_app_manager/src/main/res/layout/activity_app_manager.xml" value="0.1" />
+        <entry key="..\:/TestDemo/AiVoiceApp/module_app_manager/src/main/res/layout/add_dialog.xml" value="0.1" />
+        <entry key="..\:/TestDemo/AiVoiceApp/module_app_manager/src/main/res/layout/layout_app_manager_item.xml" value="0.17578125" />
+        <entry key="..\:/TestDemo/AiVoiceApp/module_constellation/src/main/res/layout/constellation_activity.xml" value="0.152734375" />
+        <entry key="..\:/TestDemo/AiVoiceApp/module_constellation/src/main/res/layout/fragment_month.xml" value="0.1890625" />
+        <entry key="..\:/TestDemo/AiVoiceApp/module_constellation/src/main/res/layout/fragment_today.xml" value="0.134375" />
+        <entry key="..\:/TestDemo/AiVoiceApp/module_constellation/src/main/res/layout/fragment_week.xml" value="0.11885245901639344" />
+        <entry key="..\:/TestDemo/AiVoiceApp/module_developer/src/main/res/layout/develop_activity.xml" value="0.140625" />
+        <entry key="..\:/TestDemo/AiVoiceApp/module_developer/src/main/res/layout/develop_item_content.xml" value="0.11113236419280796" />
+        <entry key="..\:/TestDemo/AiVoiceApp/module_developer/src/main/res/layout/develop_item_title.xml" value="0.6611842105263158" />
+        <entry key="..\:/TestDemo/AiVoiceApp/module_joke/src/main/res/layout/joke_activity.xml" value="0.140625" />
+        <entry key="..\:/TestDemo/AiVoiceApp/module_joke/src/main/res/layout/layout_joke_list_item.xml" value="0.12911247130833972" />
+        <entry key="..\:/TestDemo/AiVoiceApp/module_map/src/main/res/layout/map_activity.xml" value="1.2857142857142858" />
+        <entry key="..\:/TestDemo/AiVoiceApp/module_setting/src/main/res/layout/setting_activity.xml" value="0.140625" />
+        <entry key="..\:/TestDemo/AiVoiceApp/module_voice_setting/src/main/res/layout/develop_item_content.xml" value="0.22199453551912568" />
+        <entry key="..\:/TestDemo/AiVoiceApp/module_voice_setting/src/main/res/layout/setting_activity.xml" value="0.115625" />
+        <entry key="..\:/TestDemo/AiVoiceApp/module_voice_setting/src/main/res/layout/voice_setting_activity.xml" value="0.115625" />
+        <entry key="..\:/TestDemo/AiVoiceApp/module_weather/src/main/res/layout/weather_activity.xml" value="0.140625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

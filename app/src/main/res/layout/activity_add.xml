@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+   >
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:background="@drawable/alipay_add1"
+            android:layout_width="match_parent"
+            android:layout_height="162dp">
+        </ImageView>
+
+        <ImageView
+            android:id="@+id/add2_iv"
+            android:background="@drawable/alipay_add2"
+            android:layout_width="wrap_content"
+            android:layout_height="445dp">
+        </ImageView>
+
+        <ImageView
+            android:id="@+id/add3_iv"
+            android:background="@drawable/alipay_add3"
+            android:layout_width="wrap_content"
+            android:layout_height="375dp">
+        </ImageView>
+
+        <ImageView
+            android:background="@drawable/alipay_add4"
+            android:layout_width="wrap_content"
+            android:layout_height="60dp">
+        </ImageView>
+
+        <ImageView
+            android:id="@+id/add5_iv"
+            android:background="@drawable/alipay_add5"
+            android:layout_width="wrap_content"
+            android:layout_height="90dp">
+        </ImageView>
+
+        <ImageView
+            android:background="@drawable/alipay_add6"
+            android:layout_width="wrap_content"
+            android:layout_height="60dp">
+        </ImageView>
+
+        <ImageView
+            android:id="@+id/add7_iv"
+            android:background="@drawable/alipay_add7"
+            android:layout_width="wrap_content"
+            android:layout_height="495dp">
+        </ImageView>
+
+        <ImageView
+            android:background="@drawable/alipay_add8"
+            android:layout_width="wrap_content"
+            android:layout_height="60dp">
+        </ImageView>
+
+        <ImageView
+            android:id="@+id/add9_iv"
+
+            android:background="@drawable/alipay_add9"
+            android:layout_width="wrap_content"
+            android:layout_height="245dp">
+        </ImageView>
+
+        <ImageView
+            android:background="@drawable/alipay_add10"
+            android:layout_width="wrap_content"
+            android:layout_height="60dp">
+        </ImageView>
+
+        <ImageView
+            android:id="@+id/add11_iv"
+            android:background="@drawable/alipay_add11"
+            android:layout_width="wrap_content"
+            android:layout_height="505dp">
+        </ImageView>
+
+        <ImageView
+            android:id="@+id/add12_iv"
+            android:background="@drawable/alipay_add12"
+            android:layout_width="wrap_content"
+            android:layout_height="170dp">
+        </ImageView>
+
+
+    </LinearLayout>
+
+
+</ScrollView>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.imooic.module_developer">
+
+    <application>
+        <activity android:name=".DeveloperActivity"/>
+
+        <service android:name="com.imooic.lib_base.base.InitService"/>
+
+
+    </application>
+</manifest>

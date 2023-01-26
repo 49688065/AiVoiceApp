@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="340dp"
+    android:background="@drawable/shape_corner"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="18dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:text="提示"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:padding="3dp"
+        android:textSize="15sp"
+        android:layout_margin="6dp"
+        android:textColor="@color/black"
+        android:text="暂未在国家政务服务平台找到您证照数据,您可联系地方证照颁发部门核实证照数据上传情况。或点击下方“我要纠错”进行证照缺失登记，等待处理。"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <View
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="#D1D1D1"
+
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/know_tv"
+            android:padding="8dp"
+            android:textSize="16sp"
+            android:textColor="#2876E2"
+            android:gravity="center"
+            android:text="知道了"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"/>
+
+        <View
+            android:background="#D1D1D1"
+            android:layout_width="1px"
+            android:layout_height="match_parent"/>
+          <TextView
+              android:padding="8dp"
+              android:textStyle="bold"
+            android:textSize="16sp"
+            android:textColor="#1D70E4"
+            android:gravity="center"
+            android:text="我要纠错"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+</LinearLayout>
